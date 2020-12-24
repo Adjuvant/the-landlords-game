@@ -58,3 +58,26 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+Assets/Libraries/FlatKit/
+Assets/Libraries/Shapes/
+Assets/Plugins/Demigiant/DOTweenPro/
+Assets/Libraries/Doozy/
+Assets/Plugins/Demigiant/
+Assets/Plugins/Demigiant.meta
+Assets/Libraries/Shapes.meta
+Assets/Libraries/FlatKit.meta
+Assets/Libraries/Doozy.meta
+Assets/Plugins/Sirenix/
+Assets/Gizmos/Doozy/
+Assets/Gizmos/Doozy.meta
+Assets/Plugins/Sirenix.meta
+Assets/Art/Avatars/polyperfect/
+Assets/Art/Avatars/polyperfect.meta
+Assets/Art/UI/UIPacks/
+Assets/Art/UI/UIPacks.meta
+Assets/Libraries/Fog.meta
+Assets/Libraries/Fog/
+Assets/Plugins/Grabbit.meta
+Assets/Plugins/Grabbit/
+Assets/Art/Environment/polyperfect/
+Assets/Art/Environment/polyperfect.meta
